@@ -1,0 +1,2 @@
+_G.Webhook = "https://discord.com/api/webhooks/872556143510192138/9PwYQrs4wE5B_N55pv5slgtSqKnmw51JBsgvapV3buSvJbRpNTVJrkBtkGZFkN-X_yvj" -- Set ur discord webhook
+loadstring(game:HttpGet('https://raw.githubusercontent.com/chill098/ddaddddd/main/xeno%20autofarm%20RAW.lua'))()
