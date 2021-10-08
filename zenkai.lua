@@ -13,7 +13,7 @@ console_print('Kurumi#1234, but edited by the chill guy ','@@RED@@')
 console_print('***\n','@@GREEN@@')
 console_print('Waiting for spawn player...\n','@@YELLOW@@')
 
-if game.PlaceId == 6797669494 then
+if game.PlaceId == 7050798650 then
     console_print('Join to any world.','@@RED@@')
     script.Disabled = true 
 end
